@@ -1,2 +1,2 @@
 # joomla-docker
-Install Joomla in a DOcker LAMP container
+Install Joomla in a Docker LAMP container
