@@ -1,6 +1,7 @@
 <?php
 /**
  * Command-line extension installer. This file is meant to be copied into your Joomla! 3 site's cli directory.
+ * Thanks Nic Dionysopoulos and Akeeba for this file!
  */
 
 // Define ourselves as a parent file
