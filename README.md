@@ -25,3 +25,5 @@ Once the container is booted you can browse to http://localhost:8080 to visit yo
 If you want to change the version of Joomla, edit the Dockerfile and change line 6 as needed.
 
 If you want to contribute, fork this repository and submit pull requests.
+
+TODO: upgrade to PHP 7.x and add option for Joomla 4.x
