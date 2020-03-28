@@ -8,7 +8,7 @@ This project will build a complete Docker container with a LAMP stack installed 
 ### To run this docker container:
 Install Docker for your OS: https://docs.docker.com/get-docker/
 
-From a command line run
+Navigate to this repository and from a command line run
 `docker image build -t [your_image_tag] .`
 
 Once the image is built you can
